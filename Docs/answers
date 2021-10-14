@@ -1,0 +1,40 @@
+Date where Git Lab Tutorials Accessed: 10/14/2021
+Date of GitHub account creation: Apprx 3 months ago
+
+
+
+1.) Owner@DESKTOP-9IR6DJB MINGW64 ~/OneDrive/Documents/GitHub/assignment2 (master)
+$ git push
+Everything up-to-date
+
+2.) There have been 10 commits by me or by others
+(found using "$ git rev-list --count HEAD")
+
+3.) The README.md was last modified on Thu Oct 14 17:15:05 2021 -0400
+(found using $ git log)
+
+4.)Branches are used in a Git repository because they
+allow you to develop things safely in a contained area of 
+the repository. They also can store information that can be pushed
+into a GitHub site, or pulled into another branch
+
+5.)Git log: Displays committed snapshots. It lists the projected history, filter it, and search 
+for specific changes.
+Git status: Displays the state of the working directory and the staging area,
+letting you see what changes have been staged, but does not show you information
+regarding the project history
+
+6.)$ git log Vehicle.h
+
+7.)$ git log --grep=file
+
+8.)Inheritance: Ensures that code can be reused, and properties of a class can be inherited and extended by other classes
+Polymorphism: The idea that variables can exist in many forms
+Encapsulation: Allows for data to be easily protected from outside code, binding it as a single unit
+
+9.) Integration Manager: Integration and implementation can happen at any time
+Dictator and Lieutenants: These have to happen at the dictator's branch
+
+10.) In a dictator's workflow, the changes and merges are done in the lieutenants's branches, meaning that changes can be made independently.
+In a centralized workflow, the changes have to be made in the central branch, meaning each developer has to pull the 
+changes by themselves
